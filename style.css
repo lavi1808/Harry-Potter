@@ -1,0 +1,14 @@
+body {
+    background-image: url("harry-potter-hogwarts-i133054.jpg");
+}
+
+button {
+    background-color: blueviolet;
+    border-radius: 50%;
+    width: 250px;
+    font-size: 40px;
+    font-family: "Dosis";
+    font-weight: bold;
+    border: 10px gold solid; 
+    color: gold;
+}
